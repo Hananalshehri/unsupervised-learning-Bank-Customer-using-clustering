@@ -24,3 +24,4 @@ Numpy – Panads – Matplotlip – Seaborn – NLTK.
 ![image](https://user-images.githubusercontent.com/47127790/148412105-a59427b1-a342-482a-98bb-7ef76e6fc2a3.png)
 ![صورة1 (2)](https://user-images.githubusercontent.com/47127790/148413216-774cfbad-3162-4572-a134-8f84198f17e1.png)
 ![التقاط الويب_6-1-2022_214912_localhost](https://user-images.githubusercontent.com/47127790/148435104-3b9868ce-9c41-4c11-9574-0ea973be65e9.jpeg)
+![التقاط الويب_6-1-2022_22525_localhost](https://user-images.githubusercontent.com/47127790/148439626-68785cce-623f-4efd-b023-137540dc664b.jpeg)
